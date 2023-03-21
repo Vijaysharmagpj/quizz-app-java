@@ -1,0 +1,5 @@
+Steps
+1. git status
+2. git add .
+3. git commit -m "<Your message>"
+4. git push (to push code to github)
